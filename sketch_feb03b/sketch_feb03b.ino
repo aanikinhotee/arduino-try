@@ -1,3 +1,7 @@
+/**
+sketch for face recognition application 
+**/
+
 #include <Servo.h> 
 
 Servo servo1;
